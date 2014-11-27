@@ -7,3 +7,6 @@ Options:
   let fstab_unknown_device_errors = 0
     do not highlight unknown devices as errors
 
+cloned from https://github.com/rid9/vim-fstab
+
+made it pathogen ready, original syntax file by rid9
